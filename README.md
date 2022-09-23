@@ -1,8 +1,9 @@
 ---
+cover: .gitbook/assets/CAPA GITBOOK TRINITY.png
 coverY: 0
 ---
 
-# Trinity Swap Overview
+# TRINITYSwap Overview
 
 {% hint style="success" %}
 Overview Trinity Swap
@@ -26,10 +27,6 @@ Smart Contract Security:
 
 {% content-ref url="feature/safu-kyc-and-audit.md" %}
 [safu-kyc-and-audit.md](feature/safu-kyc-and-audit.md)
-{% endcontent-ref %}
-
-{% content-ref url="feature/safe-fund.md" %}
-[safe-fund.md](feature/safe-fund.md)
 {% endcontent-ref %}
 
 {% hint style="success" %}

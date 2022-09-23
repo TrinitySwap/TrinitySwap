@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Trinity Swap Overview](README.md)
+* [TRINITYSwap Overview](README.md)
 * [Our Mission & Vision](our-mission-and-vision.md)
 * [Launch](launch.md)
 
@@ -10,7 +10,7 @@
 * [Treasury](feature/treasury.md)
 * [Safu / KYC & Audit](feature/safu-kyc-and-audit.md)
 * [Fast Rewards](feature/fast-rewards.md)
-* [Farms](feature/farms.md)
+* [🚜 Farms](feature/farms.md)
 * [Pools](feature/pools.md)
 * [Launchpad](feature/launchpad.md)
 * [NFT's](feature/nfts.md)
@@ -29,5 +29,5 @@
 
 ## Community
 
-* [Social Community](community/social-community.md)
-* [Listing](community/listing.md)
+* [🌐 Social Community](community/social-community.md)
+* [✍ Listing](community/listing.md)
