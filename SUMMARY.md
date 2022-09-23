@@ -1,13 +1,15 @@
 # Table of contents
 
-* [TRINITYSwap Overview](README.md)
+* [☮ TRINITYSwap Overview](README.md)
 * [Our Mission & Vision](our-mission-and-vision.md)
 * [Launch](launch.md)
 
 ## feature
 
 * [Swap Exchange](feature/swap-exchange.md)
-* [Treasury](feature/treasury.md)
+* [Web3](feature/web3.md)
+* [💠 Metaverse](feature/metaverse.md)
+* [📈 Treasury](feature/treasury.md)
 * [Safu / KYC & Audit](feature/safu-kyc-and-audit.md)
 * [Fast Rewards](feature/fast-rewards.md)
 * [🚜 Farms](feature/farms.md)
@@ -25,7 +27,7 @@
 
 ## HELP ABOUT DEFI
 
-* [Impermanent Loss](help-about-defi/impermanent-loss.md)
+* [🚨 Impermanent Loss](help-about-defi/impermanent-loss.md)
 
 ## Community
 

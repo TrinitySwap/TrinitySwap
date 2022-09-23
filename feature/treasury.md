@@ -1,7 +1,19 @@
 ---
+cover: ../.gitbook/assets/CAPA GITBOOK TRINITY.png
 coverY: 0
 ---
 
-# Treasury
+# 📈 Treasury
 
-The Treasury supports the dumps in the event of an extreme price drop in the $TrinitySwap token. The Treasury also funds investments, new SAFU(pinksale) projects and marketing for TrinitySwap.
+{% hint style="success" %}
+**TRINITYSwap - Treasury**&#x20;
+{% endhint %}
+
+TrinitySwap Treasury plays a very important role in TrinitySwap SAP protocol. It provides three extremely critical functions for the growth and sustainability of $TSP.
+
+The TRINITYSwap Treasury acts as additional financial support for the RIF. This additional support can become important in case of an extreme drop in the price of the $TSP token or an unforeseen dewan-black event. It helps to establish a minimum value for the $TSP token.
+
+TRINITYSwap can also be used to finance new TSP products, services and projects that will expand and provide more value to our community, thus enabling us to leverage our marketing expansively.
+
+\
+\
