@@ -11,3 +11,5 @@ coverY: 0
 
 We have a liquidity pool, where we feed a market where anyone can borrow or lend our tokens... Fees are used to pay the liquidity providers for staking their own tokens in the pool. Most of the income farming takes place on the income platforms.
 
+<figure><img src="../.gitbook/assets/POOL.PNG" alt=""><figcaption></figcaption></figure>
+

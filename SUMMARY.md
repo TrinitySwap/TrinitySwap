@@ -5,10 +5,10 @@
 
 ## feature
 
-* [TRINITYSwap](feature/trinityswap.md)
+* [🌪 TRINITYSwap](feature/trinityswap.md)
 * [♻ Staking](feature/staking.md)
-* [Web3](feature/web3.md)
 * [💠 Metaverse](feature/metaverse.md)
+* [3⃣ Web3](feature/web3.md)
 * [📈 Treasury](feature/treasury.md)
 * [🕵♂ Safu / KYC & Audit](feature/safu-kyc-and-audit.md)
 * [⏩ Fast Rewards](feature/fast-rewards.md)
@@ -16,7 +16,7 @@
 * [💸 Lottery](feature/lottery.md)
 * [🔥 Flame](feature/flame.md)
 * [🛡 TrinitySwap Insurance Fund (TIF)](feature/trinityswap-insurance-fund-tif.md)
-* [NFT's](feature/nfts.md)
+* [🥰 NFT's](feature/nfts.md)
 * [✍ Listing](feature/listing.md)
 
 ## TOKENOMICS

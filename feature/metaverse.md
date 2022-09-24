@@ -11,11 +11,11 @@ coverY: 0
 
 ## Introduction
 
-<mark style="color:green;">**The metaverse**</mark> is a concept of a 3D online universe that combines several virtual environments. We can imagine the metaverse as a future iteration of the Internet. The metaverse will allow users to work, meet, play, and socialize in 3D environments.
+<mark style="background-color:purple;">**The metaverse**</mark> is a concept of a 3D online universe that combines several virtual environments. We can imagine the metaverse as a future iteration of the Internet. The metaverse will allow users to work, meet, play, and socialize in 3D environments.
 
 The metaverse does not fully exist yet, but some platforms have similar elements. Currently, it is video games and gaming that offer the closest experience to the concept of the metaverse. Developers have expanded the boundaries of games through events and by creating complex virtual economies.
 
-Although not a prerequisite, <mark style="color:green;">**cryptocurrencies**</mark> are a great option for metaverses. They allow the creation of a digital economy with different types of utility tokens and virtual collectibles (NFTs). The metaverse also benefits from the use of cryptocurrency wallets, such as Trust Wallet and MetaMask. In addition, blockchain technology can provide transparent and reliable governance systems.
+Although not a prerequisite, <mark style="background-color:purple;">**cryptocurrencies**</mark> are a great option for metaverses. They allow the creation of a digital economy with different types of utility tokens and virtual collectibles (NFTs). The metaverse also benefits from the use of cryptocurrency wallets, such as Trust Wallet and MetaMask. In addition, blockchain technology can provide transparent and reliable governance systems.
 
 ## Metaverse by TRINITYSwap
 
