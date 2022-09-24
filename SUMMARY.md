@@ -1,11 +1,12 @@
 # Table of contents
 
 * [☮ TRINITYSwap Overview](README.md)
-* [🏆 Our Mission & Vision](our-mission-and-vision.md)
+* [💥 Fairlaunch - Pinksale](fairlaunch-pinksale.md)
 
 ## feature
 
-* [Staking](feature/staking.md)
+* [TRINITYSwap](feature/trinityswap.md)
+* [♻ Staking](feature/staking.md)
 * [Web3](feature/web3.md)
 * [💠 Metaverse](feature/metaverse.md)
 * [📈 Treasury](feature/treasury.md)
@@ -16,6 +17,7 @@
 * [🔥 Flame](feature/flame.md)
 * [🛡 TrinitySwap Insurance Fund (TIF)](feature/trinityswap-insurance-fund-tif.md)
 * [NFT's](feature/nfts.md)
+* [✍ Listing](feature/listing.md)
 
 ## TOKENOMICS
 
@@ -29,4 +31,3 @@
 ## Community
 
 * [🌐 Social Community](community/social-community.md)
-* [✍ Listing](community/listing.md)
