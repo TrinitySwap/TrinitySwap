@@ -41,3 +41,8 @@ TrinitySwap Treasury
 
 The Treasury supports the dumps in the event of an extreme price drop in the $TrinitySwap token. The Treasury also funds investments, new SAFU(pinksale) projects and marketing for TrinitySwap.
 
+{% hint style="success" %}
+TrinitySwap NFT's
+{% endhint %}
+
+We will have exclusive collections of NFT's that will give our investors the possibility to access our metaverse
