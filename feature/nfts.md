@@ -17,6 +17,4 @@ Simply put, it is not possible to counterfeit or copy a non-fungible token. By l
 **Fungibility is the ability of an asset to be interchangeable with assets of the same type.**
 {% endhint %}
 
-We at TRINITYSwap will have an exclusive NFT TSP collection, where our investors will be able to purchase, and at the same time, with our NFTs, have access to the events in our metaverse world
-
-****
+We at TRINITYSwap will have an exclusive NFT TSP collection, where our investors will be able to purchase, and at the same time, with our NFTs, have access to the events in our metaverse world.

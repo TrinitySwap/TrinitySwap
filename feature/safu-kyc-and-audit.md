@@ -8,4 +8,4 @@ coverY: 0
 **TRINITYSwap - Safu / KYC & Audit**
 {% endhint %}
 
-SAFU Badge means that the project cannot be manipulated by the developer to hurt investors and gain an unfair advantage over them. SAFU badge will be given to only KYCed projects
+SAFU Badge means that the project cannot be manipulated by the developer to hurt investors and gain an unfair advantage over them. SAFU badge will be given to only KYCed projects.
