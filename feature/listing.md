@@ -15,6 +15,6 @@ coverY: 0
 
 1. Instant cashback utility for the token
 2. More exposure for the project as thousands of users currently use the swap
-3. Promoted spot on TSP website where people can explore about the project
+3. Promoted spot on $Trinity website where people can explore about the project
 
 &#x20;  **For any listing queries contact us through any of the official links at the end of the document.**

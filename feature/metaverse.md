@@ -19,5 +19,5 @@ Although not a prerequisite, cryptocurrencies are a great option for <mark style
 
 ## Metaverse by TRINITYSwap
 
-We will adopt all the most innovative trends, and with it the metaverse will be part of our schedule, a totally useful concept, for meetings and even conferences. We will give the community the opportunity to connect to our TSP world. If in the future we work, socialize and even buy virtual items in the metaverse, we will need a secure way to prove ownership. We also need to feel secure when transferring items, goods and money through the metaverse. Finally, we also want to play a role in the decision making that happens in the metaverse, since the metaverse is supposed to be such an important part of our lives.
+We will adopt all the most innovative trends, and with it the metaverse will be part of our schedule, a totally useful concept, for meetings and even conferences. We will give the community the opportunity to connect to our $Trinity world. If in the future we work, socialize and even buy virtual items in the metaverse, we will need a secure way to prove ownership. We also need to feel secure when transferring items, goods and money through the metaverse. Finally, we also want to play a role in the decision making that happens in the metaverse, since the metaverse is supposed to be such an important part of our lives.
 
