@@ -9,7 +9,7 @@ coverY: 0
 **TRINITYSwap - Treasury**&#x20;
 {% endhint %}
 
-TrinitySwap Treasury plays a very important role in TrinitySwap SAP protocol. It provides three extremely critical functions for the growth and sustainability of TSP.
+TrinitySwap Treasury plays a very important role in TrinitySwap SAP protocol. It provides three extremely critical functions for the growth and sustainability of $Trinity.
 
 The TRINITYSwap Treasury acts as additional financial support for the TIF. This additional support can become important in case of an extreme drop in the price of the $Trinity token or an unforeseen dewan-black event. It helps to establish a minimum value for the $Trinity token.
 

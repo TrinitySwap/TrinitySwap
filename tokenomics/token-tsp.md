@@ -15,15 +15,23 @@ TRINITYSwap - Tokenomics
 
 ## **Blockchain:** **BEP20**
 
-| Description                                            | - |
-| ------------------------------------------------------ | - |
-| **Presale**                                            | % |
-| **Liquidity**                                          | % |
-| <p><strong>Staking Platform/ Treasury</strong><br></p> | % |
-| <p><strong>CEX Listing</strong><br></p>                | % |
-| <p><strong>Ecosytem / Business</strong><br></p>        | % |
+| Description                          | -       |
+| ------------------------------------ | ------- |
+| **Presale**                          | **40%** |
+| **Reserve Fund**                     | **20%** |
+| <p><strong>Treasury</strong><br></p> | **5%**  |
+| **Team Advisor**                     | **15%** |
+| **ICO Program**                      | **10%** |
+| **Sold Globally**                    | **10%** |
 
 ## Purchase - 0%   Sale - 4%
+
+| SALE         | %   |
+| ------------ | --- |
+| Community    | 40% |
+| Reserve Fund | 20% |
+| Sold Globaly | 15% |
+| Team Advisor | 5%  |
 
 {% hint style="success" %}
 Fees are essential to maintain sustainable liquidity and project development, such as new platforms, updating and marketing

@@ -21,7 +21,7 @@
 
 ## TOKENOMICS
 
-* [🪙 Token $Trinity](tokenomics/token-usdtrinity.md)
+* [🪙 Token $Trinity](tokenomics/token-tsp.md)
 * [🛤 Roadmap](tokenomics/roadmap.md)
 
 ## HELP ABOUT DEFI

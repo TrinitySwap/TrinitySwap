@@ -9,7 +9,7 @@ coverY: 0
 Overview Trinity Swap
 {% endhint %}
 
-Trinity Swap aims to create an ecosystem of utilities which could revolutionize Defi. Along with Trinity Swap, which gives the unique opportunity for users to receive crypto cash back when using the swap, Trinity Swap will bring a number of amazing utilities, some of which are unique for crypto space. TSP Swap, Farms, Pools, NFT's, Launchpad, Staking and Lottery are only a small number of use cases that $Trinity will have. We will have more and more utilities added to the $Trinity ecosystem which will make it a one stop shop for all your Defi needs.
+Trinity Swap aims to create an ecosystem of utilities which could revolutionize Defi. Along with Trinity Swap, which gives the unique opportunity for users to receive crypto cash back when using the swap, Trinity Swap will bring a number of amazing utilities, some of which are unique for crypto space. $Trinity Swap, Farms, Pools, NFT's, Launchpad, Staking and Lottery are only a small number of use cases that $Trinity will have. We will have more and more utilities added to the $Trinity ecosystem which will make it a one stop shop for all your Defi needs.
 
 {% hint style="success" %}
 Trinity Swap&#x20;
