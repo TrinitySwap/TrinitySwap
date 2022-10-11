@@ -11,18 +11,20 @@ TRINITYSwap - Tokenomics
 
 ## **Project Name: TRINITYSwap**&#x20;
 
+## Total Supply**: 5.000.000**&#x20;
+
 ## **Symbol:** $Trinity
 
 ## **Blockchain:** **BEP20**
 
-| Description                          | -       |
-| ------------------------------------ | ------- |
-| **Presale**                          | **40%** |
-| **Reserve Fund**                     | **20%** |
-| <p><strong>Treasury</strong><br></p> | **5%**  |
-| **Team Advisor**                     | **15%** |
-| **ICO Program**                      | **10%** |
-| **Sold Globally**                    | **10%** |
+| Description           | -          |
+| --------------------- | ---------- |
+| **Presale**           | **40%**    |
+| **Liquidity**         | **23.52%** |
+| **Marketing Reserve** | **20%**    |
+| **CEX Reserve**       | **10%**    |
+| **Burnt**             | **10%**    |
+| **Sold Globally**     | **10%**    |
 
 ## Purchase - 0%   Sale - 4%
 
