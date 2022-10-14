@@ -6,4 +6,4 @@ coverY: 0
 
 # 💥 Fairlaunch - Pinksale
 
-{% embed url="https://www.pinksale.finance/?chain=BSC" %}
+{% embed url="https://www.pinksale.finance/launchpad/0x137B7DC8af16E9b32eC87F85BEd23B5cA4Eb7b73?chain=BSC" %}
