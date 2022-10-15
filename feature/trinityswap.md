@@ -5,7 +5,7 @@ coverY: 0
 
 # 🌪 TRINITYSwap
 
-<mark style="background-color:purple;">**TTRINITYSwap**</mark> as a built-in multi-chain liquidity aggregator to find the best deal to swap your tokens!
+<mark style="background-color:purple;">**TRINITYSwap**</mark> as a built-in multi-chain liquidity aggregator to find the best deal to swap your tokens!
 
 Safety is our top priority! Our swap contracts perform several security checks to ensure that you will never receive less tokens than expected. This means you can safely swap using "untrusted" DEX routers to get you the best available deal.
 
