@@ -17,3 +17,7 @@ AUDIT
 {% embed url="https://idopresales.com/trinity-swap-kyc-verification/" %}
 KYC
 {% endembed %}
+
+{% embed url="https://github.com/Pinkubator/smart-contracts/blob/main/TrinitySwap_0x35aA633282b071b1Ab5Ba8e031e41EA6e271f50f_SAFU_Certificate_By_Roman.pdf" %}
+SAFU
+{% endembed %}
