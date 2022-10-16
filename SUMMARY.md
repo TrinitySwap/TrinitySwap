@@ -15,7 +15,6 @@
 * [🚜 Pools](feature/pools.md)
 * [💸 Lottery](feature/lottery.md)
 * [🔥 Flame](feature/flame.md)
-* [🛡 TrinitySwap Insurance Fund (TIF)](feature/trinityswap-insurance-fund-tif.md)
 * [🥰 NFT's](feature/nfts.md)
 * [✍ Listing](feature/listing.md)
 
